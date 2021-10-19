@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-https",
+    "version": 2,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/AkshayAtkar/ESP32_FOTA_TEST/TestESP32.bin"
+}
