@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/AkshayAtkar/ESP32_FOTA_TEST/main/TestESP32.bin"
+    "bin": "/AkshayAtkar/ESP32_FOTA_TEST/main/firmware.bin"
 }
