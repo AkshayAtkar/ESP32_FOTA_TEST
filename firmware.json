@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-https",
-    "version": 4,
+    "version": 1,
     "host": "raw.githubusercontent.com",
     "port": 443,
     "bin": "/AkshayAtkar/ESP32_FOTA_TEST/main/firmware.bin"
